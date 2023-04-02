@@ -8,9 +8,9 @@
 
 
 ## 🔭 I’m currently working on ...
-The front end of a make your own sandwich website
+A 'create your own sandwich' website. My first proper project, mostly just for practise 
 ## 🌱 I’m currently learning:
-Web development at Hyperion Dev,
+react, node.js and alot of javascript 
 PhP short course
 ## 📫 How to reach me: 
 - Email: crestfallencat@aol.com
