@@ -10,7 +10,7 @@
 ## 🔭 I’m currently working on ...
 A 'create your own sandwich' website. My first proper project, mostly just for practise 
 ## 🌱 I’m currently learning:
-react, node.js and alot of javascript 
+react, node.js alot of javascript and a
 PhP short course
 ## 📫 How to reach me: 
 - Email: crestfallencat@aol.com
